@@ -10,7 +10,9 @@ Requirement: Python
 
 * Download translation-comparator.py
 
-```git clone https://github.com/gameofbusiness/Translation-Comparator.git```
+```
+git clone https://github.com/gameofbusiness/Translation-Comparator.git
+```
 
 * Note the folder location so you can navigate to it in Terminal.
 	* You can even copy-paste the Path Name if that makes it easier for you.
