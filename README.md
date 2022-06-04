@@ -8,32 +8,32 @@ If you have multiple different translations of the same text, so you cannot deci
 
 Requirement: Python
 
-*Download translation-comparator.py
+* Download translation-comparator.py
 
 ```git clone https://github.com/gameofbusiness/Translation-Comparator.git```
 
-*Note the folder location so you can navigate to it in Terminal.
-**You can even copy-paste the Path Name if that makes it easier for you.
+* Note the folder location so you can navigate to it in Terminal.
+	* You can even copy-paste the Path Name if that makes it easier for you.
 
 # How to Use the Translation Comparator
 
-*Open Terminal (Linux/Mac) or Command Prompt (Windows)
-*Navigate to folder containing translation-comparator.py
-**Syntax: cd <path name>
-**Example: cd Downloads
-*Run Translation Comparator
-**Syntax: (python|python3) translation-comparator.py
-**either python or python3 depending which version of Python you have. Link to determine version: 
+* Open Terminal (Linux/Mac) or Command Prompt (Windows)
+* Navigate to folder containing translation-comparator.py
+	* Syntax: cd <path name>
+	* Example: cd Downloads
+* Run Translation Comparator
+	* Syntax: (python|python3) translation-comparator.py
+	* Either python or python3 depending which version of Python you have. Link to determine version: 
 
 # Example Output
 
-*Format
+* Format
 
 | Translator 1 | Translator 2 	| Translator 3 	|
 |--------------|----------------|---------------|
 | 1			   | 2				| 3				|
 
-*Result
+* Result
 
 | Giles | Griffith 	| Wing 	|
 |-------|-----------|-------|
